@@ -2,7 +2,7 @@
 
 > **Practical MCP with FastMCP & LangChain: Engineering the Agentic Experience**
 >
-> To support my work, get your copy of my course [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/).
+> To support this work, get your copy of my course [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/).
 
 This appendix is a curated, opinionated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.
 
@@ -58,7 +58,7 @@ This appendix is a curated, opinionated map of the MCP ecosystem: the projects, 
 - [mcp.so](https://mcp.so) - one of the largest hosted directories, indexing tens of thousands of servers.
 - [Smithery](https://smithery.ai) - a registry plus one-click hosted deployment for many servers.
 - [Glama](https://glama.ai/mcp) - a directory covering both servers and clients, with quality signals.
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - the canonical GitHub awesome-list. Not a hosted registry, but the README that developers and LLMs reliably read.
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - An awesome list of MCP servers.
 
 ## Clients and host applications
 
