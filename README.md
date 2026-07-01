@@ -20,6 +20,7 @@ This appendix is a curated, opinionated map of the MCP ecosystem: the projects, 
 - [Official MCP documentation](https://modelcontextprotocol.io) - tutorials, concept guides, and the client and server build walkthroughs, kept current with the spec.
 - [FastMCP documentation](https://gofastmcp.com) - deep, example-driven docs for the framework used throughout this book.
 - [DeepWiki](https://deepwiki.com) - AI-generated, browsable documentation for MCP repositories, handy for orienting yourself in an unfamiliar codebase fast.
+- [Reference servers](https://github.com/modelcontextprotocol/servers) - the official educational implementations (filesystem, fetch, memory, and more), maintained to demonstrate SDK usage and protocol features cleanly.
 - [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/) - A hands-on course for engineers done with demos: build production-grade MCP servers, clients, and middleware with FastMCP and LangChain, from first principles through human-in-the-loop flows, progress and sampling, RAG, and stateful deployment, capped by a full PostgreSQL and Redis analytics system.
 
 ## Newsletters and communities
@@ -72,7 +73,7 @@ This appendix is a curated, opinionated map of the MCP ecosystem: the projects, 
 
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - a static scanner from Invariant Labs that inspects server configs and tool metadata for prompt injection, tool poisoning, rug-pulls, and unsafe cross-origin settings. Run it before installing anything.
 - [OWASP guidance on MCP and LLM risks](https://genai.owasp.org) - the OWASP GenAI project's evolving guidance, including the tool-poisoning and agentic-attack patterns MCP inherits.
-- Gateway-enforced auth - in practice, most production auth and RBAC lives at the gateway layer. See agentgateway and Lasso in the Gateways and proxies section rather than reinventing OAuth per server.
+- [Agentgateway](https://github.com/agentgateway/agentgateway) - an open source proxy built on AI-native protocols (MCP & A2A) that provides drop-in security, observability, and governance for agent-to-LLM, agent-to-tool, and agent-to-agent communication across any framework and environment.
 
 ## Observability and debugging
 
@@ -85,14 +86,6 @@ This appendix is a curated, opinionated map of the MCP ecosystem: the projects, 
 - [FastMCP Cloud](https://fastmcp.cloud) - the fastest path to a live URL for a Python FastMCP server, with a free personal tier. Now branded Prefect Horizon.
 - [Cloudflare Workers](https://developers.cloudflare.com/agents/guides/remote-mcp-server/) - near-zero cold starts for remote TypeScript servers over Streamable HTTP, with a generous free tier.
 - [Smithery](https://smithery.ai) - hosted deployment tied to its registry, useful when you want discovery and hosting in one step.
-- Containers behind a gateway - for anything stateful or governed, the Docker MCP Gateway pattern from the Gateways and proxies section remains the most portable production option.
-
-## Notable reference servers
-
-- [Reference servers](https://github.com/modelcontextprotocol/servers) - the official educational implementations (filesystem, fetch, memory, and more), maintained to demonstrate SDK usage and protocol features cleanly.
-- [GitHub MCP server](https://github.com/github/github-mcp-server) - GitHub's own production server, a strong example of scoping a large API surface into safe, well-described tools.
-- [Cloudflare MCP servers](https://github.com/cloudflare/mcp-server-cloudflare) - a suite of real remote servers demonstrating auth and Streamable HTTP at production scale.
-- [best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers) - a ranked, weekly-updated list when you want vetted picks rather than the full firehose.
 
 ---
 
