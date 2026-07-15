@@ -1,14 +1,21 @@
 # Awesome MCP
 
-> **Practical MCP with FastMCP & LangChain: Engineering the Agentic Experience**
->
-> To support this work, get your copy of my course [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/).
+## Sponsored by FAUN.dev()
+
+**Practical MCP with FastMCP & LangChain: Engineering the Agentic Experience**
+
+Stop building chatbots. Start building AI systems that actually do things -> Get your copy of my course [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/).
+
+[![](static/PracticalMCPwithFastMCPandLangChain.png)](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/)
+
+---
 
 This is a curated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.
 
 **Note**: **This is not a list of MCP servers**. It's a list of tools and resources for developers and engineers building MCP applications.
 
 - [Awesome MCP](#awesome-mcp)
+  - [Sponsored by FAUN.dev()](#sponsored-by-faundev)
   - [Specification and Official Resources](#specification-and-official-resources)
   - [Learning Resources](#learning-resources)
   - [Newsletters and Communities](#newsletters-and-communities)
