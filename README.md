@@ -6,7 +6,29 @@
 
 This is a curated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.
 
-**Note**: **This is not a list of servers**. It's a list of tools and resources for developers and engineers building MCP applications.
+**Note**: **This is not a list of MCP servers**. It's a list of tools and resources for developers and engineers building MCP applications.
+
+- [Awesome MCP](#awesome-mcp)
+  - [Specification and Official Resources](#specification-and-official-resources)
+  - [Learning Resources](#learning-resources)
+  - [Newsletters and Communities](#newsletters-and-communities)
+  - [Server Frameworks and SDKs](#server-frameworks-and-sdks)
+    - [Open Source](#open-source)
+  - [Gateways and Proxies](#gateways-and-proxies)
+    - [Open Source](#open-source-1)
+    - [Commercial](#commercial)
+  - [Registries and Discovery](#registries-and-discovery)
+    - [Open Source](#open-source-2)
+    - [Commercial](#commercial-1)
+  - [Clients and Host Applications](#clients-and-host-applications)
+    - [Open Source](#open-source-3)
+    - [Commercial](#commercial-2)
+  - [Security and Auth](#security-and-auth)
+    - [Open Source](#open-source-4)
+  - [Observability and Debugging](#observability-and-debugging)
+    - [Open Source](#open-source-5)
+  - [Deployment and Hosting](#deployment-and-hosting)
+    - [Commercial](#commercial-3)
 
 ## Specification and Official Resources
 
