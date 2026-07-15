@@ -1,20 +1,23 @@
 # Awesome MCP
 
 <div align="center">
-    <h1>Awesome MCP</h1>
-    <p>
-        This is a curated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.
-    </p>
-    Let's create the largest and most comprehensive list of Model Context Protocol (MCP) resources.
+    <h1>
+        Awesome MCP
+    </h1>
+
+This is a curated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.Let's create the largest and most comprehensive list of Model Context Protocol (MCP) resources.
+
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+</div>
 
 <br/>
+
+<div align="center">
 
 [![Stars](https://img.shields.io/github/stars/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/stargazers)
 [![Forks](https://img.shields.io/github/forks/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/network/members)
@@ -24,7 +27,11 @@
 [![Issues](https://img.shields.io/github/issues/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/pulls)
 
+</div>
+
 <br/>
+
+<div align="center">
 
 [![Follow @joinfaun](https://img.shields.io/badge/Follow-%40joinfaun-1DA1F2?style=social&logo=x&logoColor=white)](https://twitter.com/joinfaun)
 [![Tweet](https://img.shields.io/badge/Tweet-share-1DA1F2?style=social&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=A%20curated%20list%20of%20Model%20Context%20Protocol%20(MCP)%20resources&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-mcp)
