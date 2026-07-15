@@ -6,8 +6,9 @@
 
 Stop building chatbots. Start building AI systems that actually do things -> Get your copy of my course [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/).
 
-[![](static/PracticalMCPwithFastMCPandLangChain.png)](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/)
-
+<a href="https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/">
+    <img src="static/PracticalMCPwithFastMCPandLangChain.png" alt="Practical MCP with FastMCP & LangChain" width="300">
+</a>
 ---
 
 This is a curated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.
@@ -16,6 +17,8 @@ This is a curated map of the MCP ecosystem: the projects, tools, and resources w
 
 - [Awesome MCP](#awesome-mcp)
   - [Sponsored by FAUN.dev()](#sponsored-by-faundev)
+  - [](#)
+  - [Call for Contributions](#call-for-contributions)
   - [Specification and Official Resources](#specification-and-official-resources)
   - [Learning Resources](#learning-resources)
   - [Newsletters and Communities](#newsletters-and-communities)
@@ -36,6 +39,12 @@ This is a curated map of the MCP ecosystem: the projects, tools, and resources w
     - [Open Source](#open-source-5)
   - [Deployment and Hosting](#deployment-and-hosting)
     - [Commercial](#commercial-3)
+
+## Call for Contributions
+
+👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
+
+Note: Only add developers' tools, frameworks, and resources that are relevant to the MCP ecosystem.
 
 ## Specification and Official Resources
 
