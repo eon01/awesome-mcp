@@ -1,10 +1,43 @@
 # Awesome MCP
 
-## Sponsored by FAUN.dev()
+<div align="center">
+    <h1>Awesome MCP</h1>
+    <p>
+        This is a curated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.
+    </p>
+    Let's create the largest and most comprehensive list of Model Context Protocol (MCP) resources.
+</div>
 
-**Practical MCP with FastMCP & LangChain: Engineering the Agentic Experience**
+<br/>
 
-Stop building chatbots. Start building AI systems that actually do things -> Get your copy of my course [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/).
+<div align="center">
+
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+
+<br/>
+
+[![Stars](https://img.shields.io/github/stars/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/stargazers)
+[![Forks](https://img.shields.io/github/forks/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/network/members)
+[![Watchers](https://img.shields.io/github/watchers/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/watchers)
+[![Contributors](https://img.shields.io/github/contributors/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/graphs/contributors)
+[![Last commit](https://img.shields.io/github/last-commit/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/commits)
+[![Issues](https://img.shields.io/github/issues/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/issues)
+[![Open PRs](https://img.shields.io/github/issues-pr/eon01/awesome-mcp?style=flat-square)](https://github.com/eon01/awesome-mcp/pulls)
+
+<br/>
+
+[![Follow @joinfaun](https://img.shields.io/badge/Follow-%40joinfaun-1DA1F2?style=social&logo=x&logoColor=white)](https://twitter.com/joinfaun)
+[![Tweet](https://img.shields.io/badge/Tweet-share-1DA1F2?style=social&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=A%20curated%20list%20of%20Model%20Context%20Protocol%20(MCP)%20resources&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-mcp)
+
+</div>
+
+<br/>
+
+## Sponsors
+
+### 📖 Practical MCP with FastMCP & LangChain: Engineering the Agentic Experience
+
+Stop building chatbots and start building AI systems that actually do things -> Get your copy of my course [Practical MCP with FastMCP & LangChain](https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/).
 
 <p align="center">
     <a href="https://faun.dev/sensei/academy/practical-mcp-with-fastmcp-langchain-2ce0af-02ad51/">
@@ -12,15 +45,37 @@ Stop building chatbots. Start building AI systems that actually do things -> Get
     </a>
 </p>
 
+### 📚 LLM Prompt Engineering For Developers Book
+
+LLM Prompt Engineering For Developers - The Art and Science of Unlocking LLMs' True Potential. Example of what others say about it:
+
+> "Such a comprehensive view over Prompt Engineering. It is hard to find a book of this quality and depth covering what is a very emergent field." ~ MR G STEWART (Amazon Review).
+
+You can get your copy on [Amazon](https://amzn.to/3UYCGpH)
+
+### ❤️ AILinks, AI/ML Weekly Newsletter
+
+[AILinks: AI/ML Weekly Newsletter](https://faun.dev/topics/ailinks) - Curated AI/ML news, tutorials, tools, research papers, jobs and more. Delivered to your inbox every week.
+
+### 🛍️ Dev Swag: Show off your love for all things TECH
+
+If you're seeking a cozy sweatshirt to wear during your extended coding sessions or a mug to exhibit your passion for programming, [you can find it all here](https://bytevibe.co/)
+
+## Sponsorship
+
+If you'd like to sponsor this project, please reach out to aymen at faun dot dev.
+
 ---
 
-This is a curated map of the MCP ecosystem: the projects, tools, and resources worth knowing after you have built and shipped your first servers.
-
-**Note**: **This is not a list of MCP servers**. It's a list of tools and resources for developers and engineers building MCP applications.
-
 - [Awesome MCP](#awesome-mcp)
-  - [Sponsored by FAUN.dev()](#sponsored-by-faundev)
+  - [Sponsors](#sponsors)
+    - [📖 Practical MCP with FastMCP \& LangChain: Engineering the Agentic Experience](#-practical-mcp-with-fastmcp--langchain-engineering-the-agentic-experience)
+    - [📚 LLM Prompt Engineering For Developers Book](#-llm-prompt-engineering-for-developers-book)
+    - [❤️ AILinks, AI/ML Weekly Newsletter](#️-ailinks-aiml-weekly-newsletter)
+    - [🛍️ Dev Swag: Show off your love for all things TECH](#️-dev-swag-show-off-your-love-for-all-things-tech)
+  - [Sponsorship](#sponsorship)
   - [Call for Contributions](#call-for-contributions)
+  - [Notes](#notes)
   - [Specification and Official Resources](#specification-and-official-resources)
   - [Learning Resources](#learning-resources)
   - [Newsletters and Communities](#newsletters-and-communities)
@@ -47,6 +102,10 @@ This is a curated map of the MCP ecosystem: the projects, tools, and resources w
 👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
 
 Note: Only add developers' tools, frameworks, and resources that are relevant to the MCP ecosystem.
+
+## Notes
+
+**This is not just a list of MCP servers**. It's a list of tools and resources for developers and engineers building MCP applications.
 
 ## Specification and Official Resources
 
