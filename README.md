@@ -178,6 +178,7 @@ Note: Only add developers' tools, frameworks, and resources that are relevant to
 
 ### Commercial
 
+- [API.market](https://api.market/api/mcp/gateway) - a proprietary hosted MCP gateway for API search, operation discovery, execution, usage checks, and subscription management, with OAuth over Streamable HTTP; free tiers and paid plans vary by API.
 - [Arcade](https://www.arcade.dev) - a hosted platform for securely connecting agents to MCP servers, APIs, and data, with auth and tool-calling built in.
 - [Alpic](https://alpic.ai) - a managed cloud platform for shipping and running MCP servers as an AI-native layer over your product.
 - [E2B](https://e2b.dev/docs/mcp) - sandboxed infrastructure exposing 200+ tools to agents over MCP.
