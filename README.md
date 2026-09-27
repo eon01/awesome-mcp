@@ -240,6 +240,7 @@ Note: Only add developers' tools, frameworks, and resources that are relevant to
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - a static scanner from Invariant Labs that inspects server configs and tool metadata for prompt injection, tool poisoning, rug-pulls, and unsafe cross-origin settings. Run it before installing anything.
 - [OWASP guidance on MCP and LLM risks](https://genai.owasp.org) - the OWASP GenAI project's evolving guidance, including the tool-poisoning and agentic-attack patterns MCP inherits.
 - [Agentgateway](https://github.com/agentgateway/agentgateway) - an open source proxy built on AI-native protocols (MCP & A2A) that provides drop-in security, observability, and governance for agent-to-LLM, agent-to-tool, and agent-to-agent communication across any framework and environment.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - an open, CC BY 4.0 database of real-world AI agent security incidents, with 30+ MCP records such as tool poisoning, the malicious postmark-mcp npm package, and the nginx-ui MCP endpoint exploited in the wild. Every record links its primary sources.
 
 ## Observability and Debugging
 
