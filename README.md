@@ -260,3 +260,9 @@ Note: Only add developers' tools, frameworks, and resources that are relevant to
 ---
 
 Help keep this list alive. If you are building a gateway, framework, or tool that belongs here, or you know one that has outgrown a project already listed, open a pull request!
+
+## Payment Runtimes
+
+### Open Source
+
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
